@@ -1,0 +1,36 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #000000, #ff69b4);
+  color: white;
+  padding: 20px;
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: rgba(255, 255, 255, 0.1);
+  margin: 20px auto;
+  color: white;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #fff;
+  text-align: center;
+}
+
+a {
+  color: #ff69b4;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
